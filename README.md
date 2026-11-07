@@ -33,3 +33,8 @@ Calculadora/
 │
 └── scripts/
     └── calculator.js     # Lógica do cálculo e persistência no localStorage
+```
+
+## ⚠️ Nota de Aprendizado
+
+* **Observação:** Este projeto utiliza a função nativa eval() do JavaScript para calcular o resultado das expressões. Essa abordagem foi utilizada estritamente para fins educacionais e de aprendizado. Em projetos de produção real, é recomendado evitar o uso de eval() devido a riscos potenciais de segurança.[cite: 12]
